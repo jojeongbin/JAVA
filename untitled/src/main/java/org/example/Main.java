@@ -10,9 +10,6 @@ public class Main {
         System.out.println("==명언 앱==");
         System.out.print("명령)");
         command=sc.next();
-
-
-
-    
+        
     }
 }
