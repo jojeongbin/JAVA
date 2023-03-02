@@ -40,4 +40,6 @@ public class WiseSayingController {
             System.out.printf("%d / %s / %s\n", wiseSaying.getId(), wiseSaying.getAuthorName(), wiseSaying.getContent());
         }
     }
+    public void remove() {
+    }
 }

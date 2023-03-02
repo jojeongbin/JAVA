@@ -22,4 +22,5 @@ public class WiseSaying {
     public String getAuthorName() {
         return authorName;
     }
+    
 }
