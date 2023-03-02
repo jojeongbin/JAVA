@@ -3,6 +3,7 @@ package org.example;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import org.example.wiseSaying.entity.WiseSaying;
 
 public class App {
     private final Scanner sc;
